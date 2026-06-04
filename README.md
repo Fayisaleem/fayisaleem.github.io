@@ -1,4 +1,5 @@
 <h1> Hey, I'm Fayis! </h1> 
+This is my dynamic portfolio 
 
 <h2> Contact </h2>
 
